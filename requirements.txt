@@ -1,0 +1,2 @@
+# MemeRadar uses only the Python standard library — no dependencies.
+# Python 3.9+ is enough. Just run: python memeradar.py
